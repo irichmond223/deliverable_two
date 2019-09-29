@@ -26,11 +26,6 @@ namespace deliverable_two
 
                 Console.WriteLine("How many people are you bringing with you?");
 
-                Console.WriteLine("0");
-                Console.WriteLine("1-4");
-                Console.WriteLine("5-10");
-                Console.WriteLine("11+");
-
                 //Convert from string to integer to use it to determine more or less.
                 inputNum = Convert.ToInt32(Console.ReadLine());
 
