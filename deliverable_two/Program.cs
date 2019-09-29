@@ -37,100 +37,116 @@ namespace deliverable_two
 
                 if (userInput == 1 && inputNum >= 11)
                 {
-                    Console.WriteLine("if you’re in the mood for action, then you should go to Stock Car Racing and in an airplane! ");
+                    Console.WriteLine("Okay if you’re in the mood for action, then you should go to Stock Car Racing and travel in an airplane! ");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
 
                 else if (userInput == 1 && inputNum >= 5 && inputNum <= 10)
                 {
-                    Console.WriteLine("if you’re in the mood for action, then you should go to Stock Car Racing and in a Volkswagen bus!");
+                    Console.WriteLine("Okay if you’re in the mood for action, then you should go to Stock Car Racing and tavel in a Volkswagen bus!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
 
                 else if (userInput == 1 && inputNum >= 1 && inputNum <= 4)
                 {
-                    Console.WriteLine("if you’re in the mood for action, then you should go to Stock Car Racing and travel in a sedan!");
+                    Console.WriteLine("Okay if you’re in the mood for action, then you should go to Stock Car Racing and travel in a sedan!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 1 && inputNum == 0)
                 {
-                    Console.WriteLine("if you’re in the mood for action, then you should go to Stock Car Racing and travel in sneakers!");
+                    Console.WriteLine("Okay if you’re in the mood for action, then you should go to Stock Car Racing and travel in sneakers!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 2 && inputNum == 0)
                 {
-                    Console.WriteLine("if you’re in the mood for chill times, then you should go hiking and travel in sneakers!");
+                    Console.WriteLine("Okay if you’re in the mood for chill times, then you should go hiking and travel in sneakers!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 2 && inputNum >= 1 && inputNum <= 4)
                 {
-                    Console.WriteLine("if you’re in the mood for chill times, then you should go hiking and travel in a sedan!");
+                    Console.WriteLine("Okay if you’re in the mood for chill times, then you should go hiking and travel in a sedan!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 2 && inputNum >= 5 && inputNum <= 10)
                 {
-                    Console.WriteLine("if you’re in the mood for chill times, then you should go hiking and travel in a Volkswagen bus!");
+                    Console.WriteLine("Okay if you’re in the mood for chill times, then you should go hiking and travel in a Volkswagen bus!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 2 && inputNum >= 11)
                 {
-                    Console.WriteLine("if you’re in the mood for chill times, then you should go hiking and travel in an airplane!");
+                    Console.WriteLine("Okay if you’re in the mood for chill times, then you should go hiking and travel in an airplane!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 3 && inputNum == 0)
                 {
-                    Console.WriteLine("if you’re in the mood for danger, then you should go skydiving and travel in sneakers!");
+                    Console.WriteLine("Okay if you’re in the mood for danger, then you should go skydiving and travel in sneakers!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 3 && inputNum >= 1 && inputNum <= 4)
                 {
-                    Console.WriteLine("if you’re in the mood for danger, then you should go skydiving and travel in a sedan!");
+                    Console.WriteLine("Okay if you’re in the mood for danger, then you should go skydiving and travel in a sedan!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 3 && inputNum >= 5 && inputNum <= 10)
                 {
-                    Console.WriteLine("if you’re in the mood for danger, then you should go skydiving and travel in a Volkswagen bus!");
+                    Console.WriteLine("Okay if you’re in the mood for danger, then you should go skydiving and travel in a Volkswagen bus!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 3 && inputNum >= 11)
                 {
-                    Console.WriteLine("if you’re in the mood for danger, then you should go skydiving and travel in an airplane!");
+                    Console.WriteLine("Okay if you’re in the mood for danger, then you should go skydiving and travel in an airplane!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 4 && inputNum == 0)
                 {
-                    Console.WriteLine("if you’re in the mood for good food, then you should go to Taco Bell and travel in sneakers!");
+                    Console.WriteLine("Okay if you’re in the mood for good food, then you should go to Taco Bell and travel in sneakers!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 4 && inputNum >= 1 && inputNum <= 4)
                 {
-                    Console.WriteLine("if you’re in the mood for good food, then you should go to Taco Bell and travel in a sedan!");
+                    Console.WriteLine("Okay if you’re in the mood for good food, then you should go to Taco Bell and travel in a sedan!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
                 else if (userInput == 4 && inputNum >= 5 && inputNum <= 10)
                 {
-                    Console.WriteLine("if you’re in the mood for good food, then you should go to Taco Bell and travel in a Volkswagen bus!");
+                    Console.WriteLine("Okay if you’re in the mood for good food, then you should go to Taco Bell and travel in a Volkswagen bus!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
 
                 else if (userInput == 4 && inputNum >= 11)
                 {
-                    Console.WriteLine("if you’re in the mood for good food, then you should go to Taco Bell and travel in an airplane!");
+                    Console.WriteLine("Okay if you’re in the mood for good food, then you should go to Taco Bell and travel in an airplane!");
+                    Console.WriteLine("Goodbye. ");
                     Console.ReadLine();
                 }
 
@@ -154,7 +170,7 @@ namespace deliverable_two
 
                 else
                 {
-                    Console.WriteLine("Goodbye");
+                    Console.WriteLine("Goodbye.");
                     playAgain = false;
                     Console.ReadLine();
                 }
